@@ -1,5 +1,6 @@
 <?php 
-ini_set('display_errors',1); ini_set('display_startup_errors',1); error_reporting(-1);
+// uncomment for debuggging
+//ini_set('display_errors',1); ini_set('display_startup_errors',1); error_reporting(-1);
 
 // This is an example of how to use the LiquidPlanner API in PHP.
 class LiquidPlanner {
